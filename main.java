@@ -46,7 +46,6 @@ public class SimpleBot {
 
     static void test() {
         System.out.println("Hai sa iti testam cunostintele de matematica.");
-        // write your code here
         System.out.println("Cat fac 3 la puterea a 3-a?");
         System.out.println("1. Rezultatul este 33");
         System.out.println("2. Rezultatul este 9");
